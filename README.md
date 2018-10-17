@@ -11,4 +11,4 @@ This repo consists of the Exploratory data analysis and visualisations I have do
 - ### Visualisations
 
 	- __R__
-		- [Visualisation Notebook](https://github.com/sajal2692/data-science-portfolio/blob/master/911%20Calls%20-%20Exploratory%20Analysis.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+		- [Visualisation Notebook](http://rpubs.com/FahimAJ/430153): This notebook showcases some of the visualisations I have done mostly using the GGPLOT2 package. These charts are excerpts taken from my uni assignments and industry projects.
